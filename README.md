@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Altamash 👋
 
-<!--
-**altamash-cs/altamash-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- BSc Computer Science Graduate
+- Learning Python and Software Development
+- Interested in Automation, Backend Development, and AI Testing
+- Currently building projects to strengthen my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Python
+- Git & GitHub
+- JSON
+- Object-Oriented Programming
+- File Handling
+- Problem Solving
+
+## Current Projects
+
+- Task Manager CLI Application
+- Python Learning Journey
