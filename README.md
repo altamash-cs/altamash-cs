@@ -124,14 +124,6 @@ https://github.com/altamash-cs/python-task-manager
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=altamash-cs&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=altamash-cs&layout=compact&langs_count=8&theme=github_dark)
-
----
-
 ## 📫 Connect With Me
 
 📧 Email: altamashaltaf75@gmail.com
